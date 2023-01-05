@@ -1,7 +1,7 @@
 # UFO Sightings Analysis
 
 ## Overview
-The purpose of this analysis is to assist with the analysis of UFO sightings by creating a web page which includes a data table that users can filter based on five relevant criteria. This should assist users in narrowing the data they based on their specific needs or interests. 
+The purpose of this project is to assist with the analysis of UFO sightings by creating a web page which includes a data table that users can filter based on five relevant criteria. This should assist users in narrowing the data they based on their specific needs or interests. 
 
 ### The five available criteria are,
 
